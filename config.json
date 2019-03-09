@@ -10,7 +10,7 @@
   "text": {
     "more": "Network is based on tweets containing hashtag #1od5miliona. The edges exist between two users if one retweets another user\u0027s tweet. Nodes are colored based on community that they belong two: reddish are pro-govt and blue are anti-govt. The overall network has 4516 nodes and 11746. Strong polarization visible. Unlike earlier networks, opposition parties and politicans are much more visible.",
     "intro": " ",
-    "title": "Anti-government protests - #1od5miliona"
+    "title": "Anti-government protests in Serbia - #1od5miliona"
   },
   "legend": {
     "edgeLabel": " retweet",
@@ -40,7 +40,7 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
+      "maxEdgeSize": 1,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
       "maxNodeSize": 15
